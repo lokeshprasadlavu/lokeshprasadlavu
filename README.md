@@ -28,7 +28,7 @@ Python | Java | SQL | Tableau | Power BI | Excel | Git | Jupyter
 **Frameworks & Libraries:**  
 Pandas | NumPy | Scikit-learn | Spring Boot | Apache Kafka | Microservices
 
-**Cloud Technologies:**  
+**Cloud Exposure:**  
 Azure | AWS | GCP
 
 **Other Skills:**  
