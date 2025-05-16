@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lokesh Lavu
 
-🎯 **Aspiring Data Analyst | Business Analytics Graduate Student | Former Associate Analyst at Cognizant**
+🎯 **Aspiring Data & Business Analyst | Business Analytics Graduate Student | Former Associate Analyst at Cognizant**
 
 📍 Edison, NJ | Open to Remote & Relocation Opportunities  
 📫 Email: lokeshprasadlavu@gmail.com | [LinkedIn](https://linkedin.com/in/lokeshlavu)
