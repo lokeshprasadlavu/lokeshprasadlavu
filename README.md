@@ -23,10 +23,13 @@ I specialize in:
 ## 🧠 Skills
 
 **Languages & Tools:**  
-Python | SQL | Tableau | Power BI | Excel | Git | Jupyter | GCP | Postman
+Python | Java | SQL | Tableau | Power BI | Excel | Git | Jupyter
 
 **Frameworks & Libraries:**  
 Pandas | NumPy | Scikit-learn | Spring Boot | Apache Kafka | Microservices
+
+**Cloud Technologies:**  
+Azure | AWS | GCP
 
 **Other Skills:**  
 Data Cleaning | Exploratory Data Analysis | A/B Testing | Regression | CI/CD (GitHub Actions)
