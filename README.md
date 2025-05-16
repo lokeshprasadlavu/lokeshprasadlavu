@@ -20,7 +20,7 @@ I specialize in:
 
 ---
 
-## 🧠 Skills Snapshot
+## 🧠 Skills
 
 **Languages & Tools:**  
 Python | SQL | Tableau | Power BI | Excel | Git | Jupyter | GCP | Postman
