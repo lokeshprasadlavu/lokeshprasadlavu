@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Lokesh Lavu
 
-<!--
-**lokeshlavu01/lokeshlavu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst | Business Analytics Graduate Student | Former Associate Analyst at Cognizant**
 
-Here are some ideas to get you started:
+📍 Edison, NJ | Open to Remote & Relocation Opportunities  
+📫 [Email Me](mailto:lokeshprasadlavu@gmail.com) | [LinkedIn](https://linkedin.com/in/lokeshlavu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 About Me
+
+I'm a data enthusiast with a passion for turning complex datasets into clear, actionable insights. With 3 years of experience at Cognizant in API-driven environments and current graduate studies in Business Analytics at Montclair State University (GPA: 4.0), I blend practical industry knowledge with a strong academic foundation.
+
+I specialize in:
+
+- 📊 Analyzing large datasets (1.5M+ records) using Python and SQL  
+- 📈 Building predictive models and data visualizations in Tableau  
+- ⚙️ Creating and monitoring REST APIs to streamline data flow  
+- 💬 Collaborating cross-functionally to deliver business value through data
+
+---
+
+## 🧠 Skills Snapshot
+
+**Languages & Tools:**  
+Python | SQL | Tableau | Power BI | Excel | Git | Jupyter | GCP | Postman
+
+**Frameworks & Libraries:**  
+Pandas | NumPy | Scikit-learn | Spring Boot | Apache Kafka | Microservices
+
+**Other Skills:**  
+Data Cleaning | Exploratory Data Analysis | A/B Testing | Regression | CI/CD (GitHub Actions)
+
+---
+
+## 🚀 Projects
+
+### 🔹 [Capital Bikeshare Data Analysis](#)
+Analyzed 1.5M+ ride records to identify demand trends and improve operations.
+- Built regression models (R² = 0.83) to forecast demand
+- Developed Tableau dashboards for KPIs, rider demographics
+- Optimized SQL queries to improve performance by 25%
+
+*More projects coming soon — check back regularly!*
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Machine Learning Techniques  
+- Data Storytelling & Visualization  
+- Cloud Data Engineering (GCP & Azure)
+
+---
+
+## 🤝 Let's Connect
+
+I'm always excited to collaborate on data projects, learn from others in the field, or just chat about all things analytics. Feel free to reach out via [LinkedIn](https://linkedin.com/in/lokeshlavu) or [email](mailto:lokeshprasadlavu@gmail.com)!
+
+---
