@@ -11,12 +11,13 @@
 
 I'm a data enthusiast with a passion for turning complex datasets into clear, actionable insights. With 3 years of experience at Cognizant in API-driven environments and current graduate studies in Business Analytics at Montclair State University (GPA: 4.0), I blend practical industry knowledge with a strong academic foundation.
 
-I specialize in:
+### 🧠 I Specialize In:
 
-- 📊 Analyzing large datasets (17.5M+ records) using Python  
-- 📈 Building predictive models and data visualizations in Tableau  
-- ⚙️ Creating and monitoring REST APIs to streamline data flow  
-- 💬 Collaborating cross-functionally to deliver business value through data
+- 📊 **Data Analytics & Visualization**: Exploratory Data Analysis (EDA), KPI design, statistical modeling, and visual storytelling using Python and Tableau
+- 📈 **Machine Learning Fundamentals**: Regression modeling, feature engineering, and performance evaluation for forecasting and prediction tasks
+- ⚙️ **Backend Architecture & Microservices**: Building RESTful APIs using Java (Spring Boot), applying service discovery, circuit breakers, and asynchronous messaging
+- 🔄 **Resilience & Scalability**: Load balancing, Hystrix fault tolerance, Kafka-based decoupled communication, and configuration centralization via Spring Cloud
+- 🧪 **Testing & Optimization**: API testing (Postman), performance tuning (JMeter), and writing efficient, maintainable code
 
 ---
 
