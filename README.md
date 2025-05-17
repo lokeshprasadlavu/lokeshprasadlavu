@@ -43,10 +43,17 @@ Analyzed 17.5M+ ride records to identify demand trends and improve operations.
 - Built regression models (R² = 0.83) to forecast demand
 - Developed Tableau dashboards for KPIs, rider demographics
 
-
 #### 🧩 [Microservices-Based API Platform](https://github.com/lokeshlavu01/online-shopping)
+Built a modular microservices application on a local machine using **Eclipse IDE**, designed to simulate real-world, service-oriented architecture with a focus on scalability, resilience, and configuration management.
 
-- ⚙️ **Stack:** Java, Spring Boot, GitHub Actions, Apache Kafka
+- 🛠️ Developed RESTful APIs using **Java (Spring Boot)** with a clean, layered architecture
+- 🔄 Implemented **Eureka Service Discovery** for dynamic service registration and inter-service communication
+- ⚙️ Used **Spring Cloud Config Server** for centralized configuration across services
+- 🛡️ Integrated **Hystrix circuit breakers** to ensure fault tolerance and service stability under failure
+- ⚖️ Applied **load balancing** using **Spring Cloud Gateway** to route requests evenly among services
+- 📬 Incorporated **Apache Kafka** for asynchronous communication between microservices
+- 🧪 Tested all services and endpoints using **Postman**
+
 
 *More projects coming soon — check back regularly!*
 
