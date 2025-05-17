@@ -13,7 +13,7 @@ I'm a data enthusiast with a passion for turning complex datasets into clear, ac
 
 I specialize in:
 
-- 📊 Analyzing large datasets (1.5M+ records) using Python and SQL  
+- 📊 Analyzing large datasets (17.5M+ records) using Python and SQL  
 - 📈 Building predictive models and data visualizations in Tableau  
 - ⚙️ Creating and monitoring REST APIs to streamline data flow  
 - 💬 Collaborating cross-functionally to deliver business value through data
