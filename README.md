@@ -38,10 +38,24 @@ Data Cleaning | Exploratory Data Analysis | A/B Testing | Regression | CI/CD (Gi
 
 ## 🚀 Projects
 
-### 🔹 [Capital Bikeshare Data Analysis](https://github.com/lokeshlavu01/Capital-Bikeshare-Data-Analysis)
-Analyzed 17.5M+ ride records to identify demand trends and improve operations.
-- Built regression models (R² = 0.83) to forecast demand
-- Developed Tableau dashboards for KPIs, rider demographics
+#### 🚲 [Capital Bikeshare Data Analysis](https://github.com/lokeshlavu01/Capital-Bikeshare-Data-Analysis)
+Performed an end-to-end exploratory and predictive data analysis project on **17.9 million+ ride records** to uncover behavioral trends, forecast demand, and support data-driven decision-making.
+
+- 📊 Conducted **exploratory data analysis (EDA)** using Python libraries like **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**
+- 🧼 Cleaned and preprocessed over 17.9M records to handle missing values, data types, and outliers
+- 📈 Built a **regression model (R² = 0.83)** to forecast ride volume based on factors like hour, day, and weather
+- 🧠 Engineered features from timestamps (hour, weekday, season) to analyze demand cycles
+- 🔍 Identified **peak usage patterns**, **user type behavior**, and **weather impact** on ridership
+- 📅 Visualized trends in **daily**, **hourly**, and **monthly** ride volumes
+- 📈 Created interactive **Tableau dashboards** (in a separate workbook) to support visual storytelling
+- 🧾 Designed and tracked **key KPIs**:  
+  - Total Rides  
+  - Peak Hour  
+  - Highest Daily Rides  
+  - Total Minutes Driven
+- 🧪 Executed all analysis in **Jupyter Notebook** and presented visual summaries both in Python and Tableau
+- 💡 Gained hands-on experience in real-world data storytelling, statistical modeling, and insight communication
+
 
 #### 🧩 [Microservices-Based API Platform](https://github.com/lokeshlavu01/online-shopping)
 Built a modular microservices application on a local machine using **Eclipse IDE**, designed to simulate real-world, service-oriented architecture with a focus on scalability, resilience, and configuration management.
