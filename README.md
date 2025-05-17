@@ -38,7 +38,7 @@ Data Cleaning | Exploratory Data Analysis | A/B Testing | Regression | CI/CD (Gi
 
 ## 🚀 Projects
 
-### 🔹 [Capital Bikeshare Data Analysis](/Capital-Bikeshare-Data-Analysis)
+### 🔹 [Capital Bikeshare Data Analysis](https://github.com/lokeshlavu01/Capital-Bikeshare-Data-Analysis)
 Analyzed 1.5M+ ride records to identify demand trends and improve operations.
 - Built regression models (R² = 0.83) to forecast demand
 - Developed Tableau dashboards for KPIs, rider demographics
