@@ -45,11 +45,8 @@ Analyzed 17.5M+ ride records to identify demand trends and improve operations.
 
 
 #### 🧩 [Microservices-Based API Platform](https://github.com/lokeshlavu01/online-shopping)
-Designed and deployed **25+ REST APIs** at Cognizant to streamline internal data flow across platforms.
 
-- ⚙️ **Stack:** Java, Spring Boot, Apigee X, GitHub Actions, Apache Kafka  
-- 📊 Conducted API monitoring, performance tuning (Postman, JMeter)  
-- 🚀 Reduced release time by 50% and improved response time by 30%
+- ⚙️ **Stack:** Java, Spring Boot, GitHub Actions, Apache Kafka
 
 *More projects coming soon — check back regularly!*
 
