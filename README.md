@@ -16,6 +16,7 @@ I'm a data enthusiast with a passion for turning complex datasets into clear, ac
 - 📊 **Data Analytics & Visualization**: Exploratory Data Analysis (EDA), KPI design, statistical modeling, and visual storytelling using Python and Tableau
 - 📈 **Machine Learning Fundamentals**: Regression modeling, feature engineering, and performance evaluation for forecasting and prediction tasks
 - ⚙️ **Backend Architecture & Microservices**: Building RESTful APIs using Java (Spring Boot), applying service discovery, circuit breakers, and asynchronous messaging
+- 🗄️ **Databases & Storage**: Experience with **MySQL** and **H2** for relational data modeling, persistence, and integration within microservices architecture 
 - 🔄 **Resilience & Scalability**: Load balancing, Hystrix fault tolerance, Kafka-based decoupled communication, and configuration centralization via Spring Cloud
 - 🧪 **Testing & Optimization**: API testing (Postman), performance tuning (JMeter), and writing efficient, maintainable code
 
