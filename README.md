@@ -21,7 +21,7 @@ I'm a data enthusiast with a passion for turning complex datasets into clear, ac
 
 ---
 
-## 🧠 Skills
+## 🤓 Skills
 
 **Languages & Tools:**  
 Python | Java | SQL | Tableau | Power BI | Excel | Git | Jupyter
