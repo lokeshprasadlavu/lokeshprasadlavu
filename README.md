@@ -62,6 +62,7 @@ Performed an end-to-end exploratory and predictive data analysis project on **17
 Built a modular microservices application on a local machine using **Eclipse IDE**, designed to simulate real-world, service-oriented architecture with a focus on scalability, resilience, and configuration management.
 
 - 🛠️ Developed RESTful APIs using **Java (Spring Boot)** with a clean, layered architecture
+- 🗄️ Integrated with a **relational database (MySQL)** for persistent data storage in each service
 - 🔄 Implemented **Eureka Service Discovery** for dynamic service registration and inter-service communication
 - ⚙️ Used **Spring Cloud Config Server** for centralized configuration across services
 - 🛡️ Integrated **Hystrix circuit breakers** to ensure fault tolerance and service stability under failure
