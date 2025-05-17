@@ -40,6 +40,18 @@ Data Cleaning | Exploratory Data Analysis | A/B Testing | Regression | CI/CD (Gi
 
 ## 🚀 Projects
 
+#### 🧩 [Microservices-Based API Platform](https://github.com/lokeshlavu01/online-shopping)
+Built a modular microservices application on a local machine using **Eclipse IDE**, designed to simulate real-world, service-oriented architecture with a focus on scalability, resilience, and configuration management.
+
+- 🛠️ Developed RESTful APIs using **Java (Spring Boot)** with a clean, layered architecture
+- 🗄️ Integrated with a **relational database (MySQL)** for persistent data storage in each service
+- 🔄 Implemented **Eureka Service Discovery** for dynamic service registration and inter-service communication
+- ⚙️ Used **Spring Cloud Config Server** for centralized configuration across services
+- 🛡️ Integrated **Hystrix circuit breakers** to ensure fault tolerance and service stability under failure
+- ⚖️ Applied **load balancing** using **Spring Cloud Gateway** to route requests evenly among services
+- 📬 Incorporated **Apache Kafka** for asynchronous communication between microservices
+- 🧪 Tested all services and endpoints using **Postman**
+
 #### 🚲 [Capital Bikeshare Data Analysis](https://github.com/lokeshlavu01/Capital-Bikeshare-Data-Analysis)
 Performed an end-to-end exploratory and predictive data analysis project on **17.9 million+ ride records** to uncover behavioral trends, forecast demand, and support data-driven decision-making.
 
@@ -57,19 +69,6 @@ Performed an end-to-end exploratory and predictive data analysis project on **17
   - Total Minutes Driven
 - 🧪 Executed all analysis in **Jupyter Notebook** and presented visual summaries both in Python and Tableau
 - 💡 Gained hands-on experience in real-world data storytelling, statistical modeling, and insight communication
-
-
-#### 🧩 [Microservices-Based API Platform](https://github.com/lokeshlavu01/online-shopping)
-Built a modular microservices application on a local machine using **Eclipse IDE**, designed to simulate real-world, service-oriented architecture with a focus on scalability, resilience, and configuration management.
-
-- 🛠️ Developed RESTful APIs using **Java (Spring Boot)** with a clean, layered architecture
-- 🗄️ Integrated with a **relational database (MySQL)** for persistent data storage in each service
-- 🔄 Implemented **Eureka Service Discovery** for dynamic service registration and inter-service communication
-- ⚙️ Used **Spring Cloud Config Server** for centralized configuration across services
-- 🛡️ Integrated **Hystrix circuit breakers** to ensure fault tolerance and service stability under failure
-- ⚖️ Applied **load balancing** using **Spring Cloud Gateway** to route requests evenly among services
-- 📬 Incorporated **Apache Kafka** for asynchronous communication between microservices
-- 🧪 Tested all services and endpoints using **Postman**
 
 
 *More projects coming soon — check back regularly!*
