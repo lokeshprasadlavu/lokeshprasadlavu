@@ -44,7 +44,7 @@ Analyzed 17.5M+ ride records to identify demand trends and improve operations.
 - Developed Tableau dashboards for KPIs, rider demographics
 
 
-#### 🧩 [Microservices-Based API Platform] (https://github.com/lokeshlavu01/online-shopping)
+#### 🧩 [Microservices-Based API Platform](https://github.com/lokeshlavu01/online-shopping)
 Designed and deployed **25+ REST APIs** at Cognizant to streamline internal data flow across platforms.
 
 - ⚙️ **Stack:** Java, Spring Boot, Apigee X, GitHub Actions, Apache Kafka  
