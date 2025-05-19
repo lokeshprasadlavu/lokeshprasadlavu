@@ -43,14 +43,14 @@ Data Cleaning | Exploratory Data Analysis | A/B Testing | Regression | CI/CD (Gi
 #### 🧩 [Microservices-Based API Platform](https://github.com/lokeshlavu01/online-shopping)
 Built a modular microservices application on a local machine using **Eclipse IDE**, designed to simulate real-world, service-oriented architecture with a focus on scalability, resilience, and configuration management.
 
-- 🛠️ Developed RESTful APIs using **Java (Spring Boot)** with a clean, layered architecture
-- 🗄️ Integrated with a **relational database (MySQL)** for persistent data storage in each service
-- 🔄 Implemented **Eureka Service Discovery** for dynamic service registration and inter-service communication
-- ⚙️ Used **Spring Cloud Config Server** for centralized configuration across services
-- 🛡️ Integrated **Hystrix circuit breakers** to ensure fault tolerance and service stability under failure
-- ⚖️ Applied **load balancing** using **Spring Cloud Gateway** to route requests evenly among services
-- 📬 Incorporated **Apache Kafka** for asynchronous communication between microservices
-- 🧪 Tested all services and endpoints using **Postman**
+- 🛠️ Designed and built **RESTful APIs** using Java (Spring Boot) within a scalable, layered architecture for modular data flow
+- 🗄️ Integrated **MySQL** databases to ensure reliable and persistent data capture across services
+- 🔍 Enabled real-time service discovery and coordination using **Eureka**, improving system visibility and operational efficiency
+- ⚙️ Centralized configuration management via **Spring Cloud Config Server** to streamline analytics-ready deployments
+- 🛡️ Implemented **Hystrix Circuit Breakers** to enhance fault tolerance and reduce system downtime during failure scenarios
+- ⚖️ Optimized request handling and scalability with **Spring Cloud Gateway** **load balancing** across microservices
+- 📬 Leveraged **Apache Kafka** to build asynchronous, event-driven pipelines for high-volume data ingestion
+- 🧪 Validated all API endpoints and data exchanges using **Postman** to ensure accuracy and performance under load
 
 #### 🚲 [Capital Bikeshare Data Analysis](https://github.com/lokeshlavu01/Capital-Bikeshare-Data-Analysis)
 Performed an end-to-end exploratory and predictive data analysis project on **16 million+ ride records** to uncover behavioral trends, forecast demand, and support data-driven decision-making.
