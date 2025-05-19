@@ -79,7 +79,7 @@ Performed an end-to-end exploratory and predictive data analysis project on **16
 
 - Advanced Machine Learning Techniques  
 - Data Storytelling & Visualization  
-- Cloud Data Engineering (GCP & Azure)
+- Cloud Data Engineering (GCP)
 
 ---
 
