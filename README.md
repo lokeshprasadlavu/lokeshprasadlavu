@@ -55,20 +55,20 @@ Built a modular microservices application on a local machine using **Eclipse IDE
 #### 🚲 [Capital Bikeshare Data Analysis](https://github.com/lokeshlavu01/Capital-Bikeshare-Data-Analysis)
 Performed an end-to-end exploratory and predictive data analysis project on **16 million+ ride records** to uncover behavioral trends, forecast demand, and support data-driven decision-making.
 
-- 📊 Conducted **exploratory data analysis (EDA)** using Python libraries like **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**
-- 🧼 Cleaned and preprocessed over 16M records to handle missing values, data types, and outliers
-- 📈 Built a **regression model (R² = 0.69)** to forecast ride volume based on factors like hour, day, and weather
-- 🧠 Engineered features from timestamps (hour, weekday, season) to analyze demand cycles
-- 🔍 Identified **peak usage patterns**, **user type behavior**, and **weather impact** on ridership
-- 📅 Visualized trends in **daily**, **hourly**, and **monthly** ride volumes
-- 📈 Created interactive **Tableau dashboards** (in a separate workbook) to support visual storytelling
-- 🧾 Designed and tracked **key KPIs**:  
-  - Total Rides  
-  - Peak Hour  
-  - Average Trip Duration
-  - Top Demanding Station
-- 🧪 Executed all analysis in **Jupyter Notebook** and presented visual summaries both in Python and Tableau
-- 💡 Gained hands-on experience in real-world data storytelling, statistical modeling, and insight communication
+- 📊 Performed in-depth exploratory data analysis (EDA) on 16M+ ride records using Python (Pandas, NumPy, Matplotlib, Seaborn)
+- 🧼 Cleaned, transformed, and standardized data to resolve missing values, outliers, and inconsistencies
+- 📅 Engineered time-based features (hour, weekday, season) to analyze behavioral trends in ridership
+- 🔍 Uncovered actionable insights around peak usage periods, user segmentation, and weather influence
+- 📈 Built a regression model (R² = 0.69) to forecast ride volume, supporting demand planning and resource allocation
+- 📌 Defined and tracked key KPIs:
+    - Total Rides
+    - Peak Hour
+    - Average Trip Duration
+    - Top Stations
+- 📊 Created interactive Tableau dashboards to visualize usage patterns, seasonality, and demand hotspots
+- 🧾 Combined statistical modeling and storytelling to communicate data-driven recommendations
+- 🧪 Executed end-to-end analysis in Jupyter Notebook and Tableau, showcasing hybrid technical proficiency
+- 💡 Strengthened skills in data storytelling, business insight generation, and stakeholder reporting
 
 
 *More projects coming soon — check back regularly!*
