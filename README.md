@@ -53,7 +53,7 @@ Built a modular microservices application on a local machine using **Eclipse IDE
 - 🧪 Tested all services and endpoints using **Postman**
 
 #### 🚲 [Capital Bikeshare Data Analysis](https://github.com/lokeshlavu01/Capital-Bikeshare-Data-Analysis)
-Performed an end-to-end exploratory and predictive data analysis project on **17.9 million+ ride records** to uncover behavioral trends, forecast demand, and support data-driven decision-making.
+Performed an end-to-end exploratory and predictive data analysis project on **16 million+ ride records** to uncover behavioral trends, forecast demand, and support data-driven decision-making.
 
 - 📊 Conducted **exploratory data analysis (EDA)** using Python libraries like **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**
 - 🧼 Cleaned and preprocessed over 16M records to handle missing values, data types, and outliers
