@@ -65,7 +65,7 @@ Performed an end-to-end exploratory and predictive data analysis project on **16
     - Peak Hour
     - Average Trip Duration
     - Top Stations
-- 📊 Created interactive Tableau dashboards to visualize usage patterns, seasonality, and demand hotspots
+- 📊 Created interactive Tableau dashboards to visualize usage patterns, seasonality, and demand hotspots, leveraging Google BigQuery as the data source
 - 🧾 Combined statistical modeling and storytelling to communicate data-driven recommendations
 - 🧪 Executed end-to-end analysis in Jupyter Notebook and Tableau, showcasing hybrid technical proficiency
 - 💡 Strengthened skills in data storytelling, business insight generation, and stakeholder reporting
