@@ -77,8 +77,7 @@ Performed an end-to-end exploratory and predictive data analysis project on **16
 
 ## 📚 Currently Learning
 
-- Advanced Machine Learning Techniques  
-- Data Storytelling & Visualization  
+- Advanced Machine Learning Techniques   
 - Cloud Data Engineering (GCP)
 
 ---
