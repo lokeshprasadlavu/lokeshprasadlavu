@@ -40,7 +40,7 @@ Data Cleaning | Exploratory Data Analysis | A/B Testing | Regression | CI/CD (Gi
 
 ## 🚀 Projects
 
-#### 🧩 [Microservices-Based API Platform](https://github.com/lokeshlavu01/online-shopping)
+#### 🧩 [Online Shopping Microservices Project](https://github.com/lokeshlavu01/online-shopping)
 Built a modular microservices application on a local machine using **Eclipse IDE**, designed to simulate real-world, service-oriented architecture with a focus on scalability, resilience, and configuration management.
 
 - 🛠️ Designed and built **RESTful APIs** using Java (Spring Boot) within a scalable, layered architecture for modular data flow
