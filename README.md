@@ -56,8 +56,8 @@ Built a modular microservices application on a local machine using **Eclipse IDE
 Performed an end-to-end exploratory and predictive data analysis project on **17.9 million+ ride records** to uncover behavioral trends, forecast demand, and support data-driven decision-making.
 
 - 📊 Conducted **exploratory data analysis (EDA)** using Python libraries like **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**
-- 🧼 Cleaned and preprocessed over 17.9M records to handle missing values, data types, and outliers
-- 📈 Built a **regression model (R² = 0.83)** to forecast ride volume based on factors like hour, day, and weather
+- 🧼 Cleaned and preprocessed over 16M records to handle missing values, data types, and outliers
+- 📈 Built a **regression model (R² = 0.69)** to forecast ride volume based on factors like hour, day, and weather
 - 🧠 Engineered features from timestamps (hour, weekday, season) to analyze demand cycles
 - 🔍 Identified **peak usage patterns**, **user type behavior**, and **weather impact** on ridership
 - 📅 Visualized trends in **daily**, **hourly**, and **monthly** ride volumes
