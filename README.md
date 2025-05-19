@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lokesh Lavu
+# 👋 Hi, I'm Lokesh Prasad Lavu
 
 🎯 **Aspiring Data & Business Analyst | Business Analytics Graduate Student | Former Associate Analyst at Cognizant**
 
