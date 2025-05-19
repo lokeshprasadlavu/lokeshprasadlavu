@@ -65,8 +65,8 @@ Performed an end-to-end exploratory and predictive data analysis project on **17
 - 🧾 Designed and tracked **key KPIs**:  
   - Total Rides  
   - Peak Hour  
-  - Highest Daily Rides  
-  - Total Minutes Driven
+  - Average Trip Duration
+  - Top Demanding Station
 - 🧪 Executed all analysis in **Jupyter Notebook** and presented visual summaries both in Python and Tableau
 - 💡 Gained hands-on experience in real-world data storytelling, statistical modeling, and insight communication
 
