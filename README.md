@@ -79,8 +79,6 @@ AI-powered multimedia content generation for all your eCommerce listings:
 - 📂 **Auto-upload** per-SKU outputs (video + blog `.txt`) to Google Drive  
 - 🔒 **Headless auth** via OAuth refresh-token or service account  
 
----
-
 #### 🏢 TrustClarity INC (Chicago, IL)  
 Partnering to deliver enterprise-scale AI video automation:
 
