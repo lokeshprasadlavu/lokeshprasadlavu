@@ -70,6 +70,24 @@ Performed an end-to-end exploratory and predictive data analysis project on **16
 - 🧪 Executed end-to-end analysis in Jupyter Notebook and Tableau, showcasing hybrid technical proficiency
 - 💡 Strengthened skills in data storytelling, business insight generation, and stakeholder reporting
 
+#### 🛒 [EComListing-AI](https://github.com/lokeshprasadlavu/EComListing-AI)  
+AI-powered multimedia content generation for all your eCommerce listings:
+
+- ⚡ **Streamlit UI**—Single-product form or CSV+JSON batch mode  
+- 🤖 **GPT-3.5-turbo** for blog text & on-screen storyboards  
+- 🎬 **MoviePy + gTTS/PyDub** to assemble images, narration & transitions  
+- 📂 **Auto-upload** per-SKU outputs (video + blog `.txt`) to Google Drive  
+- 🔒 **Headless auth** via OAuth refresh-token or service account  
+
+---
+
+#### 🏢 TrustClarity INC (Chicago, IL)  
+Partnering to deliver enterprise-scale AI video automation:
+
+- 🎨 **Branded templates**—color palettes, fonts & watermarks  
+- 🔄 **Batch processing** with retry logic, logging & alert hooks  
+- 🚀 **5× faster** video production (2 hr → < 5 min) for thousands of SKUs
+
 
 *More projects coming soon — check back regularly!*
 
