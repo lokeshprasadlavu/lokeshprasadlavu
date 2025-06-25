@@ -80,7 +80,7 @@ AI-powered multimedia content generation for all your eCommerce listings:
 - 🔒 **Headless auth** via OAuth refresh-token or service account  
 
 #### 🏢 TrustClarity INC (Chicago, IL)  
-Partnering to deliver enterprise-scale AI video automation:
+working with TrustClarity INC to deliver enterprise-scale AI video automation:
 
 - 🎨 **Branded templates**—color palettes, fonts & watermarks  
 - 🔄 **Batch processing** with retry logic, logging & alert hooks  
