@@ -70,21 +70,19 @@ Performed an end-to-end exploratory and predictive data analysis project on **16
 - 🧪 Executed end-to-end analysis in Jupyter Notebook and Tableau, showcasing hybrid technical proficiency
 - 💡 Strengthened skills in data storytelling, business insight generation, and stakeholder reporting
 
-#### 🛒 [EComListing-AI](https://github.com/lokeshprasadlavu/EComListing-AI)  
-AI-powered multimedia content generation for all your eCommerce listings:
+### 🤖 [EComListing AI – AI-Powered Multimedia Content Generator](https://github.com/lokeshprasadlavu/EComListing-AI) 
 
-- ⚡ **Streamlit UI**—Single-product form or CSV+JSON batch mode  
-- 🤖 **GPT-3.5-turbo** for blog text & on-screen storyboards  
-- 🎬 **MoviePy + gTTS/PyDub** to assemble images, narration & transitions  
-- 📂 **Auto-upload** per-SKU outputs (video + blog `.txt`) to Google Drive  
-- 🔒 **Headless auth** via OAuth refresh-token or service account  
+An end-to-end platform built using **Python**, **Streamlit**, **OpenAI**, and **Google Drive API**, enabling automated multimedia content creation for eCommerce product listings.
+
+- 🧠 **AI-Driven Generation**: Generates high-quality **videos** and **blogs** from product title, description, and images
+- 🎬 **MoviePy + gTTS/PyDub** to assemble images, narration & transitions   
+- 📦 **Supports Single & Batch Modes**: Input one product or upload CSV + JSON for bulk generation  
+- ☁️ **Google Drive Integration**: Automatically organizes and uploads outputs (MP4 + TXT) to Drive
+- 🔒 **Headless auth** via OAuth refresh-token or service account 
+- 🚀 **Coming Soon**: AI-based image generation and direct YouTube publishing  
 
 #### 🏢 TrustClarity INC (Chicago, IL)  
-working with TrustClarity INC to deliver enterprise-scale AI video automation:
-
-- 🎨 **Branded templates**—color palettes, fonts & watermarks  
-- 🔄 **Batch processing** with retry logic, logging & alert hooks  
-- 🚀 **5× faster** video production (2 hr → < 5 min) for thousands of SKUs
+working with TrustClarity INC to deliver enterprise-scale AI video automation
 
 
 *More projects coming soon — check back regularly!*
