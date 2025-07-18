@@ -3,7 +3,7 @@
 🎯 **Aspiring Data Analyst/Data Scientist | Business Analytics Graduate Student | Former Associate Analyst at Cognizant**
 
 📍 Edison, NJ | Open to Remote & Relocation Opportunities  
-📫 Email: lokeshprasadlavu@gmail.com | [LinkedIn](https://linkedin.com/in/lokeshprasadlavu) |[Portfolio](https://lokeshprasadlavu.carrd.co)
+📫 Email: lokeshprasadlavu@gmail.com | [LinkedIn](https://linkedin.com/in/lokeshprasadlavu) | [Portfolio](https://lokeshprasadlavu.carrd.co)
 
 ---
 
