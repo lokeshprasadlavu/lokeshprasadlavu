@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lokesh Prasad Lavu
 
-🎯 **Aspiring Data Analyst/Data Scientist | Business Analytics Graduate Student | Former Associate Analyst at Cognizant**
+🎯 **Technical Business Analyst | Business Analytics Graduate Student | Former Associate Analyst at Cognizant**
 
 📍 Houston, TX | Open to Remote & Relocation Opportunities  
 📫 Email: lokeshprasadlavu@gmail.com | [LinkedIn](https://linkedin.com/in/lokeshprasadlavu) | [Portfolio](https://lokeshprasadlavu.carrd.co) | [Resume](https://drive.google.com/file/d/1DApVFzv2z-mZhoJ55blvtQsx3E1_9Ue2/view)
